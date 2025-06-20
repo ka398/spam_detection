@@ -1,0 +1,14 @@
+# Data Handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Text Processing
+nltk>=3.8.0          # For stopwords/tokenization
+scikit-learn>=1.3.0  # ML models (Naive Bayes, TF-IDF)
+
+# Web App (Choose One)
+streamlit==1.10.0    # For quick interactive app
+
+# Deployment
+joblib>=1.2.0       # Save/load models
+docker==6.0.0        # Containerization (optional)

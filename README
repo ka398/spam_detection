@@ -1,0 +1,3 @@
+# spam_detector
+
+A machine learning system that classifies emails as spam or not spam (ham) using NLP (Natural Language Processing) and classification algorithms. The model processes email text content, extracts features (e.g., word frequencies, TF-IDF), and predicts whether an email is spam with high accuracy.
