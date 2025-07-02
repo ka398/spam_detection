@@ -13,5 +13,4 @@ A machine learning system that classifies emails as spam or not spam (ham) using
 - Run `python src/train.py` to train and save the model.
 - Saved model file will be inside `models/spam_naive_bayes_model.pkl`.
 
-## Notes
-- This is my individual contribution branch FC212007_Nishadi.
+
